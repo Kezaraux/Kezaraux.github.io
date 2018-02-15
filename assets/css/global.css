@@ -1,0 +1,12 @@
+.white {
+	color: #ffffff;
+}
+
+.white:hover {
+	color: #bbb;
+}
+
+.flex-wrapper {
+	position: flex !important;
+	justify-content:space-between;
+}
